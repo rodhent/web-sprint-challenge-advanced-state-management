@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import "./App.css";
 
-import sCard from './sCard'
+
 import sForm from './sForm'
 import sList from './sList'
 
